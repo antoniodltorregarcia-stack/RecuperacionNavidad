@@ -15,4 +15,4 @@ Programación: Relación(2) Ej: 11,12
 
 22/12
 
-Base de Datos : Apuntes Tema 1 (terminado) 
+Base de Datos : Apuntes Tema 1 (terminado). 
