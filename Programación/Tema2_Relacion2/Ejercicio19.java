@@ -17,9 +17,10 @@ public class Ejercicio19  {
         
         double radian = n * (3.14 / 180);
         
-        //Resultado
+        //Resultado:
         
         System.out.println("El equivalente en radianes es de " + radian);
+        
         
         
     }
