@@ -1,0 +1,17 @@
+import java.util.Scanner;
+public class Ejercicio11 {
+    public static void main (String[]args) {
+        Scanner sc = new Scanner (System.in);
+        
+        System.out.println("Dime un número y te dare su factorial");
+        int n = sc.nextInt();
+        int fact = 1;
+        for (int i = n; i >= 1 ; i--) {
+            
+            fact *= i;
+            System.out.print( i + " x ");
+        }
+        
+        System.out.print("= " + fact);
+    }
+}
