@@ -40,6 +40,10 @@ Base de Datos: Ejercicios Tema 1 , falta el planteamiento práctico.
 28/12
 
 Base de Datos: Bloque Ejercicios y teoria Tema 1 terminados.
-Programación: Leida la documentación y Relación 1 ejer 1 y 2.
+Programación: Leída la documentación y Relación 1 ejer 1 y 2.
+
+29/12
+
+Programación: Relación (1) Tema 3 Terminada
 
 
