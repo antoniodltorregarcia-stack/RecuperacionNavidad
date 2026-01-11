@@ -84,4 +84,6 @@ Base de Datos: Apuntes Tema 3 terminados.
 
 Programación: Tema 4 documentación leída y relación (1) hasta ejercicio 8.
 
+11/01
 
+Programación: Relación (1) terminada.
