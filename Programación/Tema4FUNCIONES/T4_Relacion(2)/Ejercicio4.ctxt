@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ejercicio4
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=dias
+comment2.target=int\ dia(int)
+comment3.params=horas
+comment3.target=int\ hora(int)
+comment4.params=mins
+comment4.target=int\ minutos(int)
+comment5.params=dias\ horas\ mins
+comment5.target=int\ total(int,\ int,\ int)
+numComments=6
